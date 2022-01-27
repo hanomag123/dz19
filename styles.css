@@ -1,0 +1,9 @@
+
+.line {
+    text-decoration: line-through;
+}
+.taskBox {
+    border: 1px solid #ccc;
+    cursor: pointer;
+    margin-top: 5px;
+}
